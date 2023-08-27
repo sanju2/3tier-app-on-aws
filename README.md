@@ -4,7 +4,7 @@ AWS Three Tier Web Architecture
 ### Architectural Diagram
 ![Diagram](Architectural-Diagram.png)
 
-### OutPut
+### Output Images
 ![Output](output.png)
 
 ![Output1](output1.png)
